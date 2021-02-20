@@ -1,0 +1,5 @@
+1.  CMD+P for find a file with the name
+2. CMD+d to select a highlighted word for replacing one by one or CMD+SHIFT+L to select all
+3. OPT+up/down to move the line(s) up/below
+4. SHIFT+OPT down to copy and paste the line(s) below
+5. code->pref->user snippets for custom snippets
