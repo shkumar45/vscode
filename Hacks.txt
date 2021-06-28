@@ -3,3 +3,4 @@
 3. OPT+up/down to move the line(s) up/below
 4. SHIFT+OPT down to copy and paste the line(s) below
 5. code->pref->user snippets for custom snippets
+6. OPT+SHIFT+F - format json or any other document type
